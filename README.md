@@ -1,0 +1,2 @@
+# mkcscope
+Make cscope config
